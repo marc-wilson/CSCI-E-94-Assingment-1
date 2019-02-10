@@ -147,6 +147,7 @@ class TicTacToe {
 	/**
 	 * @summary Event fires on a game board move (a cell has been clicked)
 	 * @param {Event} evt
+	 * @returns {void}
 	 */
 	async onCellClick(evt) {
 		// If the game is not in progress, it's the first move
@@ -158,6 +159,11 @@ class TicTacToe {
 		const id = evt.target.id;
 		// Check to make sure the id is truthy and the game is not completed yet
 		if (id && !this.gameComplete) {
+			// Check to make sure the cell clicked doens't container a move
+			const requestedMove = document.getElementById(id);
+			if (requestedMove && (requestedMove.innerText === 'X' || requestedMove.innerText === 'O')) {
+				return;
+			}
 			// Remove the helper text of the id attribute (we just need the position index)
 			const position = id.replace(/position/, '');
 			// execute a move on the GameBoardRequest
