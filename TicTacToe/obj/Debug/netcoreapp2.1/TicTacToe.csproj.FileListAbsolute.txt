@@ -1,0 +1,16 @@
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.deps.json
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.runtimeconfig.json
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.dll
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.pdb
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\tictactoeswagger.config
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorAssemblyInfo.cache
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorAssemblyInfo.cs
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.AssemblyInfo.cs
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorTargetAssemblyInfo.cache
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.dll
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.pdb
+C:\Users\marc\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.csprojAssemblyReference.cache

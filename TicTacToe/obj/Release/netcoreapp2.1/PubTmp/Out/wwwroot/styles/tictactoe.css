@@ -1,0 +1,41 @@
+﻿html, body { height: 100%; }
+body {
+	font-family: sans-serif;
+	display: grid;
+	grid-template-rows: auto 1fr;
+	width: 80%;
+	margin: auto;
+}
+
+body header h1 { margin-bottom: 0; }
+
+body header small { color: gray; }
+
+body main #gameActions {
+	padding: 15px 0;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+body main #gameActions #winner { text-align: right;}
+
+#gameBoard {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	height: 75%;
+}
+#gameBoard .cell {
+	border: .5px solid black;
+	opacity: 0.7;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 4em;
+}
+
+#gameBoard .cell:hover {
+	opacity: 1;
+	background: lightgray;
+}

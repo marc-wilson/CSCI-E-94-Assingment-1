@@ -1,0 +1,10 @@
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\bin\Debug\TicTacToeSdk.dll
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\bin\Debug\TicTacToeSdk.pdb
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\obj\Debug\TicTacToeSdk.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\obj\Debug\TicTacToeSdk.csproj.CopyComplete
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\obj\Debug\TicTacToeSdk.dll
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\obj\Debug\TicTacToeSdk.pdb
+C:\Users\marc\source\repos\TicTacToe\TicTacToeSdk\obj\Debug\TicTacToeSdk.csprojAssemblyReference.cache

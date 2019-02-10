@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{57ADAABB-A9E5-44F0-82D1-5881BA0A4CA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeTest", "TicTacToeTest\TicTacToeTest.csproj", "{F3177EF6-233B-4FCA-AE58-C9ECC230EE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeSdk", "TicTacToeSdk\TicTacToeSdk.csproj", "{16A5471E-5473-4B24-B053-4525AB219AD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC0D2887-E93D-41CC-B05A-5E6A6362D92A}"
+	ProjectSection(SolutionItems) = preProject
+		projectnotes.txt = projectnotes.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57ADAABB-A9E5-44F0-82D1-5881BA0A4CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ADAABB-A9E5-44F0-82D1-5881BA0A4CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ADAABB-A9E5-44F0-82D1-5881BA0A4CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ADAABB-A9E5-44F0-82D1-5881BA0A4CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3177EF6-233B-4FCA-AE58-C9ECC230EE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3177EF6-233B-4FCA-AE58-C9ECC230EE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3177EF6-233B-4FCA-AE58-C9ECC230EE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3177EF6-233B-4FCA-AE58-C9ECC230EE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A5471E-5473-4B24-B053-4525AB219AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A5471E-5473-4B24-B053-4525AB219AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A5471E-5473-4B24-B053-4525AB219AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A5471E-5473-4B24-B053-4525AB219AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6132E9C-479E-49B8-8374-147B3E7E5DD9}
+	EndGlobalSection
+EndGlobal

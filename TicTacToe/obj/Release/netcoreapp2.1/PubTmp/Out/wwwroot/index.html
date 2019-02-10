@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<link href="styles/tictactoe.css" rel="stylesheet" />
+</head>
+<body>
+	<header>
+		<h1>Welcome to Tic Tac Toe</h1>
+		<small>Looking for Swagger? <a href="/swagger" target="_blank">Swagger UI</a> | <a href="/swagger/v1/swagger.json" target="_blank">swagger.json</a></small>
+		<hr />
+	</header>
+	<main>
+		<div id="gameActions">
+			<div id="playerSelection">
+				<strong>Play As:</strong>
+				<label for="playerX">X</label>
+				<input type="radio" name="playerSymbol" id="playerX" value="X" checked />
+				<label for="playerO">O</label>
+				<input type="radio" name="playerSymbol" id="playerO" value="O" />
+			</div>
+			<div id="winner">
+				Make a move to start!
+			</div>
+		</div>
+		<div id="gameBoard">
+			<div id="position0" class="cell"></div>
+			<div id="position1" class="cell"></div>
+			<div id="position2" class="cell"></div>
+			<div id="position3" class="cell"></div>
+			<div id="position4" class="cell"></div>
+			<div id="position5" class="cell"></div>
+			<div id="position6" class="cell"></div>
+			<div id="position7" class="cell"></div>
+			<div id="position8" class="cell"></div>
+		</div>
+	</main>
+</body>
+	<script src="scripts/tictactoe.js"></script>
+</html>
